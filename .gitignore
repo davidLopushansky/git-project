@@ -3,4 +3,4 @@
 # txt-files
 docs/*.txt
 .idea/workspace.xml
-.idea/
+.idea/*
