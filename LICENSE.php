@@ -4,3 +4,4 @@
 
 "branch master"
 "Hello I am master conflict"
+"Hello I am master conflict"
