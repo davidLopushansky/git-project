@@ -2,4 +2,4 @@
 /logs
 # txt-files
 docs/*.txt
-/.idea
+.idea/workspace.xml
